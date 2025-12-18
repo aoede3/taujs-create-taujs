@@ -1,5 +1,9 @@
 # @taujs/cli
 
+v0.1.5 - 18/12/2025
+
+feat: update meta; css; output
+
 v0.1.4 - 11/12/2025
 
 chore: align with taujs/server 0.5.0
